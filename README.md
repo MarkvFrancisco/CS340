@@ -1,9 +1,9 @@
 # CS340
 ## How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
-###
+### to write programs that are maintainable, readable, and adaptable is first by following proper naming conventions (for variables, functions, classes, etc.), following the OOP principles, and including well-written comments to distinguish different components of the program.The advantages of working in this way, especially while working on the CRUD Python module is because most – if not all software are going to be scaled to accomodate for a larger user base, thus creating a program that is maintainable, readable, and adaptable from the get-go will make the development process easier for further along a project goes. Future use cases for using the CRUD Python module include future projects that will need a database such as: an online scheduling/appointment service, inventory tracker, etc.
 
 ## How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
-### 
+### I approached the Grazioso Salvare dashboard proejct in a similar way to previous project assignments I completed for other courses; by identifying the system requirements, identify the inputs/outputs necessary, and break the components of the system into smaller, digestable pieces. Techniques that I applied in this project in order to create databases to meet other client requests is by testing edge cases to decrease the odds of potential failures of the program.
 
 ## What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
-###
+### Computer scientists figure out ways to make certain processes faster, more accessible and efficient through modern day computational capabilities. My work on this type of project would help a company by creating avenues for business expansion and efficiency by establishing a mutable database.
